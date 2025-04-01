@@ -1,4 +1,4 @@
-- main accunt https://github.com/@733402
+- main accunt https://github.com/733402
 
 <!---
 ezyro-36446574/ezyro-36446574 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
